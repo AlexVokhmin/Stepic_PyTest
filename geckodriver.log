@@ -1,0 +1,60 @@
+1659936584629	geckodriver	INFO	Listening on 127.0.0.1:51316
+1659936585134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofilev130rI"
+1659936586577	Marionette	INFO	Marionette enabled
+1659936586585	Marionette	INFO	Listening on port 51325
+WebDriver BiDi listening on ws://localhost:51317
+Read port: 51325
+1659936586804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofilev130rI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51317/devtools/browser/6769faf0-e337-40df-a652-7585117d049d
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1659339237, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1659339237, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1659936625497	Marionette	INFO	Stopped listening on port 51325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 13544, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+1659937007412	geckodriver	INFO	Listening on 127.0.0.1:52657
+1659937007900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofileLSMq40"
+1659937009138	Marionette	INFO	Marionette enabled
+1659937009147	Marionette	INFO	Listening on port 52668
+WebDriver BiDi listening on ws://localhost:52658
+Read port: 52668
+1659937009351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofileLSMq40\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52658/devtools/browser/6241f9ae-a81f-4dcf-ba17-7e01a82c4256
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1659339237, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1659339237, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659938867953	geckodriver	INFO	Listening on 127.0.0.1:58572
+1659938868434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofileNVV7rl"
+1659938869775	Marionette	INFO	Marionette enabled
+1659938869790	Marionette	INFO	Listening on port 58583
+WebDriver BiDi listening on ws://localhost:58573
+Read port: 58583
+1659938870149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofileNVV7rl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58573/devtools/browser/f783510a-5234-4e8a-813a-3da1acfadab5
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1659339237, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1659339237, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1659938883935	Marionette	INFO	Stopped listening on port 58583
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1659940098963	geckodriver	INFO	Listening on 127.0.0.1:62447
+1659940099449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofileh71hhU"
+1659940100691	Marionette	INFO	Marionette enabled
+1659940100700	Marionette	INFO	Listening on port 62463
+WebDriver BiDi listening on ws://localhost:62448
+Read port: 62463
+1659940100971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A9F43~1.VOH\\AppData\\Local\\Temp\\rust_mozprofileh71hhU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62448/devtools/browser/13474dc6-8c2b-40ec-829b-2dac8209e06c
+1659940107870	Marionette	INFO	Stopped listening on port 62463
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659940108960	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
